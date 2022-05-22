@@ -26,7 +26,7 @@
  <img src="https://media3.giphy.com/media/tkLbVDKHiwsJUvo1cj/giphy.gif?cid=790b7611d7998d31d53d943b5c741c13fbab5ee323471502&rid=giphy.gif&ct=g">
   <h3>Leaf Cafe</h3>
 <p><strong>HTML, CSS, Javascript<strong></p>
-  A organic cafe website that features its background and menu.
+  An organic cafe website that features its background and menu.
  </td>
   </table>
 <!---
