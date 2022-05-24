@@ -19,12 +19,16 @@
   <td> 
 <img src="https://media1.giphy.com/media/UhAu1PYOvtLWxYVqoi/giphy.gif?cid=790b7611e219d98392004de583b835354dd178883de66540&rid=giphy.gif&ct=g">
 <h3>Ayesha</h3>
+   <a href="https://github.com/Limebee/Ayesha-site">Repository</a> 
+  <a href="https://ayeshasalonco.netlify.app">Website</a>
 <p><strong>HTML, CSS, Javascript<strong></p>
   A modern salon website that features its services and stylists.
   </td>
  <td>
  <img src="https://media3.giphy.com/media/tkLbVDKHiwsJUvo1cj/giphy.gif?cid=790b7611d7998d31d53d943b5c741c13fbab5ee323471502&rid=giphy.gif&ct=g">
   <h3>Leaf Cafe</h3>
+   <a href="https://github.com/Limebee/Ayesha-site">Repository</a> 
+  <a href="https://ayeshasalonco.netlify.app">Website</a>
 <p><strong>HTML, CSS, Javascript<strong></p>
   An organic cafe website that features its background and menu.
  </td>
