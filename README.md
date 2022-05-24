@@ -27,8 +27,8 @@
  <td>
  <img src="https://media3.giphy.com/media/tkLbVDKHiwsJUvo1cj/giphy.gif?cid=790b7611d7998d31d53d943b5c741c13fbab5ee323471502&rid=giphy.gif&ct=g">
   <h3>Leaf Cafe</h3>
-   <a href="https://github.com/Limebee/Ayesha-site">Repository</a> 
-  <a href="https://ayeshasalonco.netlify.app">Website</a>
+   <a href="https://github.com/Limebee/LeafCafe">Repository</a> 
+  <a href="https://leafcafe.netlify.app">Website</a>
 <p><strong>HTML, CSS, Javascript<strong></p>
   An organic cafe website that features its background and menu.
  </td>
