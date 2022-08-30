@@ -33,6 +33,14 @@
 <p><strong>HTML, CSS, Javascript<strong></p>
   An organic cafe website that features its background and menu.
  </td>
+ <td>
+ <img src="photo.gif">
+  <h3>Photography Portfolio</h3>
+   <a href="https://github.com/Limebee/photography-portfolio">Repository</a> 
+  <a href="https://kaiyaburch.netlify.app">Website</a>
+<p><strong>HTML, CSS, Javascript<strong></p>
+  An photographer's portfolio that features their work.
+ </td>
   </table>
 <!---
 Limebee/Limebee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
