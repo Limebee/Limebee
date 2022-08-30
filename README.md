@@ -34,7 +34,7 @@
   An organic cafe website that features its background and menu.
  </td>
  <td>
- <img src="https://media.giphy.com/media/6g8YedP9uKaYhNw6pm/giphy.gif">
+ <img src="https://media.giphy.com/media/6g8YedP9uKaYhNw6pm/giphy-downsized.gif">
   <h3>Photography Portfolio</h3>
    <a href="https://github.com/Limebee/photography-portfolio">Repository</a> 
   <a href="https://kaiyaburch.netlify.app">Website</a>
