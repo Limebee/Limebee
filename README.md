@@ -39,7 +39,7 @@
    <a href="https://github.com/Limebee/photography-portfolio">Repository</a> 
   <a href="https://kaiyaburch.netlify.app">Website</a>
 <p><strong>HTML, CSS, Javascript<strong></p>
-  An photographer's portfolio that features their work.
+  A photographer's portfolio that features their work.
  </td>
   </table>
 <!---
