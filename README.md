@@ -38,7 +38,7 @@
   <h3>Photography Portfolio</h3>
    <a href="https://github.com/Limebee/kayia-portfolio">Repository</a> 
   <a href="https://kayia-portfolio.vercel.app/">Website</a>
-<p><strong>HTML, CSS, Javascript, Next.js, React, Tailwind<strong></p>
+<p><strong>Next.js, React, Tailwind<strong></p>
   A photographer's portfolio that features their work.
  </td>
   </table>
