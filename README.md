@@ -44,7 +44,7 @@
   </table>
  <table style="padding: 10px;">
 <td>
- <img src="https://ibb.co/k2Xmj6z">
+ <a href="https://ibb.co/k2Xmj6z"><img src="https://i.ibb.co/k2Xmj6z/Screen-Shot-2023-07-29-at-10-08-34-PM.png" alt="Screen-Shot-2023-07-29-at-10-08-34-PM" border="0" /></a>
   <h3>fèt</h3>
    <a href="https://github.com/Limebee/fet">Repository</a> 
   <a href="https://fet.onrender.com/">Website</a>
