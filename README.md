@@ -41,7 +41,9 @@
 <p><strong>HTML, CSS, Javascript<strong></p>
   A photographer's portfolio that features their work.
  </td>
- <td>
+  </table>
+ <table style="padding: 10px;">
+<td>
  <img src="https://media.giphy.com/media/m8MJnvVNcRkZnTA0DS/giphy.gif">
   <h3>fèt</h3>
    <a href="https://github.com/Limebee/fet">Repository</a> 
