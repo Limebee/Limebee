@@ -44,7 +44,7 @@
   </table>
  <table style="padding: 10px;">
 <td>
- <img src="https://media.giphy.com/media/m8MJnvVNcRkZnTA0DS/giphy.gif">
+ <img src="https://ibb.co/k2Xmj6z">
   <h3>fèt</h3>
    <a href="https://github.com/Limebee/fet">Repository</a> 
   <a href="https://fet.onrender.com/">Website</a>
@@ -52,7 +52,7 @@
   A fun website that generates drink recipes for any occasion.
  </td>
  <td>
- <img src="https://media.giphy.com/media/po1gLBREBJO7yP6MEi/giphy.gif">
+ <img src="https://ibb.co/cvBy0z9">
   <h3>foot</h3>
    <a href="https://github.com/Limebee/fet">Repository</a> 
   <a href="https://footindex.onrender.com/">Website</a>
