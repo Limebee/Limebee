@@ -49,7 +49,7 @@
    <a href="https://github.com/Limebee/fet">Repository</a> 
   <a href="https://fet.onrender.com/">Website</a>
 <p><strong>HTML, CSS, Javascript, Tailwind<strong></p>
-  A fun website that generates drink recipes.
+  A fun website that generates drink recipes for any occasion.
  </td>
   </table>
 <!---
