@@ -42,12 +42,12 @@
   A photographer's portfolio that features their work.
  </td>
  <td>
- <img src="https://imgflip.com/gif/7u68g7">
-  <h3>Photography Portfolio</h3>
-   <a href="https://github.com/Limebee/photography-portfolio">Repository</a> 
-  <a href="https://kaiyaburch.netlify.app">Website</a>
-<p><strong>HTML, CSS, Javascript<strong></p>
-  A photographer's portfolio that features their work.
+ <img src="https://media.giphy.com/media/m8MJnvVNcRkZnTA0DS/giphy.gif">
+  <h3>fèt</h3>
+   <a href="https://github.com/Limebee/fet">Repository</a> 
+  <a href="https://fet.onrender.com/">Website</a>
+<p><strong>HTML, CSS, Javascript, Tailwind<strong></p>
+  A fun website that generates drink recipes.
  </td>
   </table>
 <!---
