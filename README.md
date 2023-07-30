@@ -42,7 +42,7 @@
   A photographer's portfolio that features their work.
  </td>
   </table>
- <table style="padding: 5px;">
+ <table style="padding: 10px;">
 <td>
  <img src="https://media.giphy.com/media/m8MJnvVNcRkZnTA0DS/giphy.gif">
   <h3>fèt</h3>
@@ -50,6 +50,14 @@
   <a href="https://fet.onrender.com/">Website</a>
 <p><strong>HTML, CSS, Javascript, Tailwind<strong></p>
   A fun website that generates drink recipes for any occasion.
+ </td>
+ <td>
+ <img src="https://media.giphy.com/media/po1gLBREBJO7yP6MEi/giphy.gif">
+  <h3>foot</h3>
+   <a href="https://github.com/Limebee/fet">Repository</a> 
+  <a href="https://footindex.onrender.com/">Website</a>
+<p><strong>HTML, CSS, Javascript, Tailwind<strong></p>
+  A website that allows you search information soccer players.
  </td>
   </table>
 <!---
