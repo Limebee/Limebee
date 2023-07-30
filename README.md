@@ -34,16 +34,16 @@
   An organic cafe website that features its background and menu.
  </td>
  <td>
- <img src="https://media.giphy.com/media/6g8YedP9uKaYhNw6pm/giphy-downsized.gif">
+ <a href="https://ibb.co/j33fnr3"><img src="https://i.ibb.co/j33fnr3/Screen-Shot-2023-07-29-at-10-08-08-PM.png" alt="Screen-Shot-2023-07-29-at-10-08-08-PM" border="0"></a>
   <h3>Photography Portfolio</h3>
-   <a href="https://github.com/Limebee/photography-portfolio">Repository</a> 
-  <a href="https://kaiyaburch.netlify.app">Website</a>
-<p><strong>HTML, CSS, Javascript<strong></p>
+   <a href="https://github.com/Limebee/kayia-portfolio">Repository</a> 
+  <a href="https://kayia-portfolio.vercel.app/">Website</a>
+<p><strong>HTML, CSS, Javascript, Next.js, React, Tailwind<strong></p>
   A photographer's portfolio that features their work.
  </td>
   </table>
  <table style="padding: 10px;">
-<td>
+   <td>
  <a href="https://ibb.co/k2Xmj6z"><img src="https://i.ibb.co/k2Xmj6z/Screen-Shot-2023-07-29-at-10-08-34-PM.png" alt="Screen-Shot-2023-07-29-at-10-08-34-PM" border="0" /></a>
   <h3>fèt</h3>
    <a href="https://github.com/Limebee/fet">Repository</a> 
@@ -52,9 +52,17 @@
   A fun website that generates drink recipes for any occasion.
  </td>
  <td>
- <img src="https://ibb.co/cvBy0z9">
+ <a href="https://ibb.co/wRSvzWD"><img src="https://i.ibb.co/wRSvzWD/Screen-Shot-2023-07-29-at-10-07-14-PM.png" alt="Screen-Shot-2023-07-29-at-10-07-14-PM" border="0"></a>
+  <h3>Honeydew</h3>
+   <a href="https://github.com/Limebee/honeydew">Repository</a> 
+  <a href="https://honeydewdrinks.onrender.com/">Website</a>
+<p><strong>EJS, CSS, Javascript, Tailwind, MongoDB, Node.js<strong></p>
+  A website that tracks orders for juice bar baristas.
+ </td>
+  <td>
+ <a href="https://ibb.co/cvBy0z9"><img src="https://i.ibb.co/cvBy0z9/Screen-Shot-2023-07-29-at-10-07-35-PM.png" alt="Screen-Shot-2023-07-29-at-10-07-35-PM" border="0"></a>
   <h3>foot</h3>
-   <a href="https://github.com/Limebee/fet">Repository</a> 
+   <a href="https://github.com/Limebee/foot">Repository</a> 
   <a href="https://footindex.onrender.com/">Website</a>
 <p><strong>HTML, CSS, Javascript, Tailwind<strong></p>
   A website that allows you search information soccer players.
