@@ -42,7 +42,7 @@
   A photographer's portfolio that features their work.
  </td>
   </table>
- <table style="padding: 10px;">
+ <table style="padding: 5px;">
 <td>
  <img src="https://media.giphy.com/media/m8MJnvVNcRkZnTA0DS/giphy.gif">
   <h3>fèt</h3>
