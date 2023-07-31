@@ -65,7 +65,7 @@
    <a href="https://github.com/Limebee/foot">Repository</a> 
   <a href="https://footindex.onrender.com/">Website</a>
 <p><strong>HTML, CSS, Javascript, Tailwind<strong></p>
-  A website that allows you search information soccer players.
+  A website that allows you search information about soccer players.
  </td>
   </table>
 <!---
